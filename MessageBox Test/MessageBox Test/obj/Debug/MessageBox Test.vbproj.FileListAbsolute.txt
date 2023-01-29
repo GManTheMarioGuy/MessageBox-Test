@@ -1,0 +1,13 @@
+D:\more repos\MessageBox Test\MessageBox Test\bin\Debug\MessageBox Test.exe.config
+D:\more repos\MessageBox Test\MessageBox Test\bin\Debug\MessageBox Test.exe
+D:\more repos\MessageBox Test\MessageBox Test\bin\Debug\MessageBox Test.pdb
+D:\more repos\MessageBox Test\MessageBox Test\bin\Debug\MessageBox Test.xml
+D:\more repos\MessageBox Test\MessageBox Test\obj\Debug\MessageBox Test.vbproj.AssemblyReference.cache
+D:\more repos\MessageBox Test\MessageBox Test\obj\Debug\MessageBox Test.vbproj.SuggestedBindingRedirects.cache
+D:\more repos\MessageBox Test\MessageBox Test\obj\Debug\MessageBox_Test.Form1.resources
+D:\more repos\MessageBox Test\MessageBox Test\obj\Debug\MessageBox_Test.Resources.resources
+D:\more repos\MessageBox Test\MessageBox Test\obj\Debug\MessageBox Test.vbproj.GenerateResource.cache
+D:\more repos\MessageBox Test\MessageBox Test\obj\Debug\MessageBox Test.vbproj.CoreCompileInputs.cache
+D:\more repos\MessageBox Test\MessageBox Test\obj\Debug\MessageBox Test.exe
+D:\more repos\MessageBox Test\MessageBox Test\obj\Debug\MessageBox Test.xml
+D:\more repos\MessageBox Test\MessageBox Test\obj\Debug\MessageBox Test.pdb
